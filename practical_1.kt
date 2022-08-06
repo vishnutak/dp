@@ -1,0 +1,2 @@
+class practical_1 {
+}
